@@ -4,7 +4,7 @@
 
 
 {
-	"spider":"https://github.com/fly888999/tvbox/blob/bfb7d3565e7c1f844188f6fcef8a5263f134ce2b/Yoursmile.jar;md5;9c1a090323764aa6a40b1e5da56e89e9",
+	"spider":"https://raw.githubusercontent.com/fly888999/tvbox1/main/Yoursmile.jar;md5;84e45f6f1fbbd001256d81c92fa0d6da",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "name": "live",
