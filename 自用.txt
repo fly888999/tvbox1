@@ -45,6 +45,8 @@
 {"key":"csp_xB_野马","name":"野马","type":3,"api": "csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://v.yemays.tk/vodshow/{cateId}/page/{catePg}.html"},
 {"key": "csp_xBPQ_电影天堂","name":"电影天堂┃xBPQ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类\":\"电影$1#续集$2#综艺$3#动漫$4#世界杯$32\",\"分类url\":\"https://www.qiip.cc/vod/show/id/{cateId}.html\",\"筛选\":\"1\"}"},
 {"key":"csp_Kunyu77","name":"🏳️‍🌈七七丨影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"BuLei","name":"⚡布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.bulei.cc"},
+{"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
 {"key":"Kuaikan","name":"👀快看丨影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AppTT","name":"🐰图图丨影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu","name":"🐷乐猪丨影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
