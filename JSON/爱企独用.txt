@@ -327,5 +327,5 @@
     "www.google-analytics.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://la.kstore.space/download/3764/ly.jar;md5;57c09f96de572de534071e2d892d6e3a"
+  "spider": "https://github.com/fly888999/tvbox1/blob/main/%E7%BD%90/ly%E7%88%B1%E4%BC%81.jar;md5;867d7f17c3da2b14696e9d82ce8bb821"
 }
